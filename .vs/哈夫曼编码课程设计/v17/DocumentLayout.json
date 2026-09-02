@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u5E94\u7528\u6570\u636E\u7ED3\u6784\u8BFE\u7A0B\u8BBE\u8BA1\\Github\\huffman-tree-course-design\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91BA7C25-5964-4169-8EE4-A3345EA0389E}|\u54C8\u592B\u66FC\u7F16\u7801\u8BFE\u7A0B\u8BBE\u8BA1.vcxproj|D:\\\u5E94\u7528\u6570\u636E\u7ED3\u6784\u8BFE\u7A0B\u8BBE\u8BA1\\Github\\huffman-tree-course-design\\\u54C8\u592B\u66FC\u7F16\u8BD1\u7801.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91BA7C25-5964-4169-8EE4-A3345EA0389E}|\u54C8\u592B\u66FC\u7F16\u7801\u8BFE\u7A0B\u8BBE\u8BA1.vcxproj|solutionrelative:\u54C8\u592B\u66FC\u7F16\u8BD1\u7801.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u54C8\u592B\u66FC\u7F16\u8BD1\u7801.c",
+              "DocumentMoniker": "D:\\\u5E94\u7528\u6570\u636E\u7ED3\u6784\u8BFE\u7A0B\u8BBE\u8BA1\\Github\\huffman-tree-course-design\\\u54C8\u592B\u66FC\u7F16\u8BD1\u7801.c",
+              "RelativeDocumentMoniker": "\u54C8\u592B\u66FC\u7F16\u8BD1\u7801.c",
+              "ToolTip": "D:\\\u5E94\u7528\u6570\u636E\u7ED3\u6784\u8BFE\u7A0B\u8BBE\u8BA1\\Github\\huffman-tree-course-design\\\u54C8\u592B\u66FC\u7F16\u8BD1\u7801.c",
+              "RelativeToolTip": "\u54C8\u592B\u66FC\u7F16\u8BD1\u7801.c",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAAACgBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-02T06:19:02.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

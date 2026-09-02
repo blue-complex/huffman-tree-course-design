@@ -293,8 +293,8 @@ void PrintCodeFile(const char* filename) {
 void PrintHfmTreeRec(HfmTree HT,FILE* fp,int dep,int node,char* chars) {
 	//凹入表根据深度打印空格缩进
 	for (int i = 0; i < dep; i++) {
-		fprintf(fp, "  ");
-		printf("  ");
+		fprintf(fp, "	");
+		printf("	");
 	}
 
 	/* 叶子结点：输出字符和权值 */
@@ -477,7 +477,7 @@ int main() {
 				CreateHfmCode(&hfmCode, hfmTree, n);
 			}
 			//打印
-			PrintHfmTree(hfmTree,"TreePrint",n,chars);
+			PrintHfmTree(hfmTree,"TreePrint.txt",n,chars);
 			break;
 		case 'Q' : case'q': {
 			/* 退出，释放内存 */
