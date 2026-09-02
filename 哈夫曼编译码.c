@@ -369,7 +369,7 @@ int main() {
 
 	while (1) {
 		char cmd;
-		printf("功能菜单：\n");
+		printf("\n功能菜单：\n");
 		printf("I - 初始化（建立哈夫曼树）\n");
 		printf("E - 编码\n");
 		printf("D - 译码\n");
