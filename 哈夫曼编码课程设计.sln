@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "哈夫曼编码课程设计", "哈夫曼编码课程设计.vcxproj", "{91BA7C25-5964-4169-8EE4-A3345EA0389E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91BA7C25-5964-4169-8EE4-A3345EA0389E}.Debug|x64.ActiveCfg = Debug|x64
+		{91BA7C25-5964-4169-8EE4-A3345EA0389E}.Debug|x64.Build.0 = Debug|x64
+		{91BA7C25-5964-4169-8EE4-A3345EA0389E}.Debug|x86.ActiveCfg = Debug|Win32
+		{91BA7C25-5964-4169-8EE4-A3345EA0389E}.Debug|x86.Build.0 = Debug|Win32
+		{91BA7C25-5964-4169-8EE4-A3345EA0389E}.Release|x64.ActiveCfg = Release|x64
+		{91BA7C25-5964-4169-8EE4-A3345EA0389E}.Release|x64.Build.0 = Release|x64
+		{91BA7C25-5964-4169-8EE4-A3345EA0389E}.Release|x86.ActiveCfg = Release|Win32
+		{91BA7C25-5964-4169-8EE4-A3345EA0389E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A9BBF95-CAFE-4F04-8182-7F0DD2057409}
+	EndGlobalSection
+EndGlobal
