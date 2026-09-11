@@ -93,7 +93,7 @@ void CreateHfmCode(HfmCode* HC,HfmTree HT,int n) {
 		}
 		//最后i位置字符编码长度即为n-start,总空间长度-起始位置下标
 		(*HC)[i] = (char*)malloc((n - start) * sizeof(char));
-		strcpy((*HC)[i], &cd[start]);//strcpy即从start地址开始，逐个复制字符，直到‘/0’
+		strcpy((*HC)[i], &cd[start]);//strcpy即从start地址开始，逐个复制字符，直到‘\0’
 		//注意cd是char*，但是cd[start]就是char了，所以应该取地址&
 	}
 
@@ -288,7 +288,7 @@ void PrintCodeFile(const char* filename) {
 	        printf("\n");
 	    }
 	    fclose(fp);
-	}
+}
 
 void PrintHfmTreeRec(HfmTree HT,FILE* fp,int dep,int node,char* chars) {
 	//凹入表根据深度打印空格缩进
@@ -369,7 +369,7 @@ int main() {
 
 	while (1) {
 		char cmd;
-		printf("功能菜单：\n");
+		printf("\n功能菜单：\n");
 		printf("I - 初始化（建立哈夫曼树）\n");
 		printf("E - 编码\n");
 		printf("D - 译码\n");
